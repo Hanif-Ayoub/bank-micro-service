@@ -9,6 +9,7 @@
 <li>Exposing a Restful API using Spring Data Rest by leveraging projections</li>
 <li>Creation DTOs and Mappers</li>
 <li>Creation the Service (business) and microservice layer</li>
+<li>Creation of graphQL web service</li>
 </ol>
 <br><br><br>
 <img src="captures/1.png"><br><br><br>
@@ -25,4 +26,8 @@
 ...<br><br><br>
 <img src="captures/10.png"><br><br><br>
 <img src="captures/11.png"><br><br><br>
-<img src="captures/12.png">
+<img src="captures/12.png"><br><br><br>
+<img src="captures/13.png"><br><br><br>
+<img src="captures/14.png"><br><br><br>
+<img src="captures/15.png"><br><br><br>
+<img src="captures/16.png"><br><br><br>

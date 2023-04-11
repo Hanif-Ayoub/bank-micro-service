@@ -13,6 +13,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api")
+// or you can use @AllArgsConstructor
 public class AccountRestController {
     private BankAccountRepository bankAccountRepository;
     private AccountService accountService;
